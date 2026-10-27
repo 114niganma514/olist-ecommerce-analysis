@@ -1,0 +1,2 @@
+raw_orders,raw_reviews,clean_orders,valid_orders,delivered_orders,orders_without_items,orders_without_review,items_unknown_category,first_date,last_date
+99441,99224,99441,98207,96470,775,768,1603,2016-09-04,2018-10-17

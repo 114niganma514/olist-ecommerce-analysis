@@ -1,0 +1,12 @@
+# raw data and local databases are never committed (licence + size)
+data/*
+!data/generate_sample.py
+*.duckdb
+*.duckdb.wal
+*.sqlite
+output/duckdb_tmp/
+output/*.txt
+output/RUNNING.lock
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,6 @@
+payment_type,orders,share,aov
+credit_card,75589,0.7697,165.76
+boleto,19538,0.1989,144.69
+voucher,1535,0.0156,105.23
+debit_card,1465,0.0149,140.28
+unknown,80,0.0008,167.98

@@ -1,0 +1,6 @@
+test,compared,p_value,effect,significant_at_5pct
+Review score: on-time > late (Mann-Whitney U),4.29 vs 2.27,0.0,rank-biserial r = 0.64,True
+Low review (1-2 stars) rate: late vs on-time (chi-square),62.4% vs 9.2%,0.0,odds ratio 16.3 (95% CI 15.4-17.2),True
+States: late rate vs average review (Spearman),24 states,7.468374341361151e-10,rho = -0.91,True
+States: delivery days vs freight share of bill (Spearman),24 states,2.9507045111996198e-06,rho = 0.80,True
+Repeat rate: first order 4-5 stars vs 1-2 stars (chi-square),3.06% vs 2.81%,0.12883051706919993,,False
